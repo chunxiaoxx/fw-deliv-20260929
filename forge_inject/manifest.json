@@ -1,0 +1,638 @@
+{
+ "n": 90,
+ "seed": 20260929,
+ "types": 3,
+ "note": "合成正例(非真实黑帧)——用途:B族变体判定方向复验;真实黑帧采集待采集网络",
+ "items": [
+  {
+   "id": "inj_T1_all_black_000_f031.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Replace_Paper_Roll_Label_Printer___1b5174d5\\f031.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_001_f011.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Earphone_Brand_Grouping__81135778\\f011.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_002_f012.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f012.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_003_f017.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Sort_and_Arrange_Glues_and_Tapes_by_Category__59fdc700\\f017.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_004_f020.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Refill_Takeout_Paper_Bags__d279cd19\\f020.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_005_f007.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_domestic_camera0\\f007.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_006_f033.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f033.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_007_f013.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Store_Cloth__ce619a16\\f013.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_008_f036.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Adjust_Seal_Sticker__0ec86920\\f036.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_009_f019.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Organize_Takeaway_Cup_Dispensing_Area__7185d667\\f019.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_010_f001.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Replace_Paper_Roll_Label_Printer___1b5174d5\\f001.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_011_f008.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f008.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_012_f006.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Small_Stationery_Sorting__4bc176b0\\f006.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_013_f011.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_domestic_camera0\\f011.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_014_f024.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Neatly_Stack_Scattered_Documents__98e585e6\\f024.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_015_f036.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Replace_Paper_Roll_Label_Printer___1b5174d5\\f036.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_016_f028.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_industry_camera0\\f028.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_017_f032.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f032.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_018_f027.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Tape_End_Finishing__50c811e8\\f027.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_019_f001.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Return_Cleaning_Cotton_to_Place__e4e76a5c\\f001.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_020_f030.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Organize_Takeaway_Cup_Dispensing_Area__7185d667\\f030.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_021_f034.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f034.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_022_f018.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Bagging_Paper_Clips__71d0b659\\f018.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_023_f014.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Earphone_Brand_Grouping__81135778\\f014.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_024_f019.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Align_and_Stack_Takeaway_Cup_Lids__e61145e1\\f019.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_025_f026.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Clean_the_tissue_box_and_replace_the_tissue_pack__5349c16f\\f026.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_026_f035.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Scissors_and_Utility_Knife_Storage__6b7d007f\\f035.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_027_f019.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_domestic_camera0\\f019.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_028_f002.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f002.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T1_all_black_029_f024.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Align_and_Stack_Takeaway_Cup_Lids__e61145e1\\f024.jpg",
+   "black_type": "T1_all_black",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_000_f016.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Earphone_Brand_Grouping__81135778\\f016.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_001_f013.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_domestic_camera0\\f013.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_002_f018.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Clean_the_tissue_box_and_replace_the_tissue_pack__5349c16f\\f018.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_003_f008.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Wipe_Cleaning_Spray_Bottle__d6f05ba6\\f008.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_004_f003.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Store_Cloth__ce619a16\\f003.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_005_f016.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f016.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_006_f022.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Earphone_Brand_Grouping__81135778\\f022.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_007_f000.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Sort_and_Arrange_Glues_and_Tapes_by_Category__59fdc700\\f000.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_008_f031.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Wipe_Cleaning_Spray_Bottle__d6f05ba6\\f031.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_009_f031.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f031.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_010_f029.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Fold_Paper_into_a_Triangle__de467812\\f029.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_011_f020.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Fold_Paper_into_a_Triangle__de467812\\f020.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_012_f023.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Refill_Takeout_Paper_Bags__d279cd19\\f023.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_013_f026.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Earphone_Brand_Grouping__81135778\\f026.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_014_f013.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f013.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_015_f020.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Small_Stationery_Sorting__4bc176b0\\f020.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_016_f007.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Fold_Paper_into_a_Triangle__de467812\\f007.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_017_f038.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Wipe_Cleaning_Spray_Bottle__d6f05ba6\\f038.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_018_f014.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Tape_End_Finishing__50c811e8\\f014.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_019_f022.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f022.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_020_f028.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Put_the_pencil_case_into_the_backpack__c6dbb604\\f028.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_021_f015.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Align_and_Stack_Takeaway_Cup_Lids__e61145e1\\f015.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_022_f011.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Refill_Takeout_Paper_Bags__d279cd19\\f011.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_023_f034.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Clean_the_tissue_box_and_replace_the_tissue_pack__5349c16f\\f034.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_024_f016.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_domestic_camera0\\f016.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_025_f022.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Store_Cloth__ce619a16\\f022.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_026_f007.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_store_the_charger__96fa22f0\\f007.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_027_f033.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_industry_camera0\\f033.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_028_f037.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Adjust_Seal_Sticker__0ec86920\\f037.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T2_gradient_029_f022.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Return_Cleaning_Cotton_to_Place__e4e76a5c\\f022.jpg",
+   "black_type": "T2_gradient",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_000_f022.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Adjust_Seal_Sticker__0ec86920\\f022.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_001_f017.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Align_and_Stack_Takeaway_Cup_Lids__e61145e1\\f017.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_002_f023.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_store_the_charger__96fa22f0\\f023.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_003_f012.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Small_Stationery_Sorting__4bc176b0\\f012.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_004_f014.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Store_Cloth__ce619a16\\f014.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_005_f018.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Organize_Takeaway_Cup_Dispensing_Area__7185d667\\f018.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_006_f000.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Refill_Takeout_Paper_Bags__d279cd19\\f000.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_007_f004.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Tape_End_Finishing__50c811e8\\f004.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_008_f033.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_store_the_charger__96fa22f0\\f033.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_009_f019.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Refill_Takeout_Paper_Bags__d279cd19\\f019.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_010_f014.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_domestic_camera0\\f014.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_011_f018.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Earphone_Brand_Grouping__81135778\\f018.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_012_f015.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Small_Stationery_Sorting__4bc176b0\\f015.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_013_f032.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Return_Cleaning_Cotton_to_Place__e4e76a5c\\f032.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_014_f033.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_domestic_camera0\\f033.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_015_f034.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Bagging_Paper_Clips__71d0b659\\f034.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_016_f012.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Clean_the_tissue_box_and_replace_the_tissue_pack__5349c16f\\f012.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_017_f007.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Sort_and_Arrange_Glues_and_Tapes_by_Category__59fdc700\\f007.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_018_f027.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f027.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_019_f000.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Return_Cleaning_Cotton_to_Place__e4e76a5c\\f000.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_020_f023.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_business_camera0\\f023.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_021_f016.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Scissors_and_Utility_Knife_Storage__6b7d007f\\f016.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_022_f021.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Wipe_Cleaning_Spray_Bottle__d6f05ba6\\f021.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_023_f001.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\genrobot\\vdd2_genrobot_qc_domestic_camera0\\f001.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_024_f025.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Bagging_Paper_Clips__71d0b659\\f025.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_025_f036.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Neatly_Stack_Scattered_Documents__98e585e6\\f036.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_026_f003.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Earphone_Brand_Grouping__81135778\\f003.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_027_f016.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_store_the_charger__96fa22f0\\f016.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_028_f032.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Wipe_Cleaning_Spray_Bottle__d6f05ba6\\f032.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  },
+  {
+   "id": "inj_T3_shadow_029_f027.jpg",
+   "src_frame": "runtime\\forge_framebank\\frames\\other\\vdd2_egodemo_qc_videos_Refill_Takeout_Paper_Bags__d279cd19\\f027.jpg",
+   "black_type": "T3_shadow",
+   "label": "defect_black",
+   "seed": 20260929
+  }
+ ]
+}
